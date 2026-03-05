@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Matcha Cafe <h1>
+        <img src="https://tse1.explicit.bing.net/th/id/OIP.vBeBXeDZli25QFT1OmiitAHaLC?rs=1&pid=ImgDetMain&o=7&rm=3" style="width: 100%"/>
+        <section> Welcome to our shop . We offer the best PINK matcha " </p>
+            <ul>
+            <li> strawberry matcha </li>
+            <li> red vevet cake </li>
+            <li> brownies </li>
+            <li> water </li>
+            </ul>
+                <footer>FIND US Sreet 11/4579 , infront of the train station .</footer>
+
+</body>
+</html>
