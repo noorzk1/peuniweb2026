@@ -1,0 +1,86 @@
+:root {
+  --primary-pink: #ffc1cc;    /* Baby Pink 🌸 */
+  --matcha-green: #7d9061;    /* Deep Matcha 🍵 */
+  --bg-baby-pink: #ffe4e9;    /* Light Baby Pink Background 🎀 */
+  --card-white: #ffffff;      
+  --text-dark: #4a4a4a;       
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--bg-baby-pink);
+  color: var(--text-dark);
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Container centering and sizing */
+body > * {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%; 
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+/* Centered headings */
+h1, h2, h3 {
+    text-align: center;
+    color: var(--matcha-green);
+}
+
+/* Content card styling */
+header, main, footer {
+    background: var(--card-white);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px; 
+    box-shadow: 0 8px 20px rgba(255, 182, 193, 0.4);
+    border: 3px solid var(--primary-pink);
+}
+
+/* Responsive images */
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+/* Navigation and button sizing */
+button, .btn {
+    min-height: 44px;
+    padding: 10px 25px;
+    background-color: var(--primary-pink);
+    color: white;
+    border-radius: 50px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+/* Header layout */
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Custom list styling */
+ul {
+    list-style-type: "🌸 ";
+    padding-left: 35px;
+}
+
+li {
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--matcha-green);
+}
