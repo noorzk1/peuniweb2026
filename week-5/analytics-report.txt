@@ -1,1 +1,3 @@
-
+GTM ID: GTM-TNTBH5D6
+GA Measurement ID: G-LZB6SJL1NH
+Description: I am tracking views of the Menu page via a custom GA4 Event tag.
