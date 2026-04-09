@@ -1,1 +1,10 @@
+1.The Value Exchange:
+Since you are asking for a "First Choice" selection, you can say: "I offered the user a free matcha sample or a personalized recipe guide based on their 'First Choice' selection in the form."
 
+2.Data Minimization:
+"I chose to include only Name, Email, and a preference dropdown."
+"These fields are useful for the business because they provide the necessary contact information to send the reward while allowing the cafe to understand what specific products the customer is most interested in."
+
+3.Audit Results:
+"My initial Performance score was 59."
+"The 'biggest offender' identified by Lighthouse was unoptimized image files (JPG/PNG), which were slowing down the page load time before I converted them to WebP."
