@@ -1,0 +1,8 @@
+The Friction Test: How many clicks does it take from landing on your homepage to completing an order?
+(Usually, this is around 4-6 clicks: Homepage -> Order Online -> Add to Cart -> View Cart -> Checkout -> Place Order).
+
+Product Logic: Describe your "Variable" product. What options did you give the user?
+The Latte is the variable product. The options provided to the user were different milk types (e.g., Soy , Cow , Oat milk).
+
+Inventory: What happened to the "Brownie" page after you placed a test order for one?
+If the stock was 1 and it was purchased, check if the page now says "Out of Stock" or if the product has disappeared from the "Order Online" menu entirely.
