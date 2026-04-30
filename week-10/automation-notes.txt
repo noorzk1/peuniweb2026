@@ -1,0 +1,5 @@
+The Coupon: The coupon code is FRESHMAN26, which offers a 15% discount on orders over 100 CZK. This code was chosen to target the "Freshman" student demographic and encourage first-time purchases.
+
+The Automation: I designed a "Welcome Email" automation triggered after one minute when a user joins the Newsletter mailing list. The subject line is: "Welcome to the Matcha Crew! Your 15% discount is inside ".
+
+The Data Strategy: I added a question asking for the user's favorite coffee (choices: Strawberry Matcha Latte, Almond Latte, or Espresso). I will use this data to segment my audience; for example, users who prefer Almond Lattes will receive emails about dairy-free milk alternatives, ensuring the content is personalized to their dietary
